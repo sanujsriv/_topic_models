@@ -1,2 +1,3 @@
-# _topic_models
-topic-models-dev
+# _topic_models_
+All topic models developed till now. Variational autoencoder networks
+
